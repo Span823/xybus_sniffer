@@ -1,7 +1,0 @@
-{
-  "domain": "xybus_sniffer",
-  "name": "XYBus Sniffer",
-  "version": "1.0",
-  "dependencies": ["uart"],
-  "codeowners": ["@you"]
-}
